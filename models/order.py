@@ -1,6 +1,6 @@
-from sqlalchemy import Column, Date, Integer, ForeignKey
-from sqlalchemy.orm import  relationship, backref
-from sqlalchemy.ext.declarative import _declarative_base
+from sqlalchemy import Column, DateTime, Integer, ForeignKey
+from sqlalchemy.orm import relationship, backref
+from sqlalchemy.ext.declarative import declarative_base
 from models.product import Products
 
 Base = declarative_base()
