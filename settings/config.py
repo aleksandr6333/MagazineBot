@@ -2,7 +2,7 @@ import os
 from emoji import emojize
 
 
-TOKEN = '5437617243:AAETf80Sxlrh1iJB450U5H1FyrX0J2VLSuc'
+TOKEN = '5437617243:AAETf80Sxlrh1iJB450U5H1FyrX0J2VLSuC'
 
 NAME_DB = 'products.sqlite'
 
